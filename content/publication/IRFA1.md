@@ -1,17 +1,20 @@
 ---
-title: "ABEC Treating and Pruning: new approaches to forecasting model selection and combination using prediction intervals"
+title: "On the effects of uncertainty measures on sustainability indices: An empirical investigation in a nonlinear framework"
 authors:
 - admin
-- Fernando Luiz Cyrino Oliveira
-- Jooyoung Jeon
+- Felipe Arias Fogliano da Souza Cunha
+- Rafael Batista Palazzi
+- Marcelo Cabus Klotzle
+- Paula Medina Maçaira
+
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2020-07-26T00:00:00Z"
-doi: ""
+- "Corresponding Author"
+- ""
+date: "2020-05-19T00:00:00Z"
+doi: "10.1016/j.irfa.2020.101505"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-05-19T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,16 +23,20 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Journal of Forecasting, 1*(1)"
+publication: "*International Review of Financial Analysis, 70*(1)"
 publication_short: ""
 
-abstract: We propose a new way of selecting among model forms in automated exponential smoothing routines, consequently enhancing their predictive power. The procedure, here addressed as treating, operates by selectively subsetting the ensemble of competing models based on information from their prediction intervals. By the same token, we set forth a pruning strategy to improve the accuracy of both point forecasts and prediction intervals in forecast combination methods. The proposed approaches are respectively applied to automated exponential smoothing routines and Bagging algorithms, to demonstrate their potential. An empirical experiment is conducted on a wide range of series from the M- Competitions. The results attest that the proposed approaches are simple, without requiring much additional computational cost, but capable of substantially improving forecasting accuracy for both point forecasts and prediction intervals, outperforming important benchmarks and recently developed forecast combination methods.
+abstract: This study investigates the effects of uncertainty measures on the dynamics of sustainability indices across different regions of the globe in the post-crisis period. The analysis is conducted under a multivariate Nonlinear Autoregressive-Distributed Lag (NARDL) framework. The results suggest that besides contributing to the Sustainable Development Goals, sustainability indices may serve as valuable tools to investors, asset managers and other stakeholders to dampen and/or offset the negative impacts of local and global measures of uncertainty, depending on the analyzed region. Other implications and an agenda for future research are also discussed.
 
 # Summary. An optional shortened abstract.
-summary: We introduce a new way of selecting among model forms in automated ETS forecasting routines, here addressed as treating. The approach operates by subsetting the pool of competing models based on the information delivered by their prediction intervals. An application to exponential smoothing formulations gave rise to alternative forecasting methods, the Treated ETS and the Treated AICc weights. By the same token, we also proposed a pruning strategy that can be used to enhance the accuracy of forecasts arising from any  forecast combination method, provided that the models to be combined are able to generate prediction intervals to their point forecasts.
+summary: The short and long-run effects of uncertainty measures on the dynamic of sustainability indices are investigated.
 
 tags:
-- Source Themes
+- Sustainability indices
+- Uncertainty
+- Nonlinearity
+- NARDL
+- Asymmetric effects
 featured: false
 
 # links:
@@ -43,6 +50,10 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+url_custom = [{name = "Custom Link", url = "https://doi.org/10.1016/j.irfa.2020.101505"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
