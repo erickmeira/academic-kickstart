@@ -42,7 +42,7 @@ featured: false
 
 # links:
 # - name: ""
-url: https://doi.org/10.1016/j.irfa.2020.101505
+url: ''
 url_pdf: ''
 url_code: ''
 url_dataset: ''
