@@ -26,7 +26,7 @@ publication_short: ""
 abstract: We propose a new way of selecting among model forms in automated exponential smoothing routines, consequently enhancing their predictive power. The procedure, here addressed as treating, operates by selectively subsetting the ensemble of competing models based on information from their prediction intervals. By the same token, we set forth a pruning strategy to improve the accuracy of both point forecasts and prediction intervals in forecast combination methods. The proposed approaches are respectively applied to automated exponential smoothing routines and Bagging algorithms, to demonstrate their potential. An empirical experiment is conducted on a wide range of series from the M- Competitions. The results attest that the proposed approaches are simple, without requiring much additional computational cost, but capable of substantially improving forecasting accuracy for both point forecasts and prediction intervals, outperforming important benchmarks and recently developed forecast combination methods.
 
 # Summary. An optional shortened abstract.
-summary: We introduce a new way of selecting among model forms in automated ETS forecasting routines, here addressed as treating. The approach operates by subsetting the pool of competing models based on the information delivered by their prediction intervals. An application to exponential smoothing formulations gave rise to alternative forecasting methods, the `Treated ETS' and the `Treated AICc weights'. By the same token, we also proposed a pruning strategy that can be used to enhance the accuracy of forecasts arising from any  forecast combination method, provided that the models to be combined are able to generate prediction intervals to their point forecasts.
+summary: We introduce a new way of selecting among model forms in automated ETS forecasting routines, here addressed as treating. The approach operates by subsetting the pool of competing models based on the information delivered by their prediction intervals. An application to exponential smoothing formulations gave rise to alternative forecasting methods, the Treated ETS and the Treated AICc weights. By the same token, we also proposed a pruning strategy that can be used to enhance the accuracy of forecasts arising from any  forecast combination method, provided that the models to be combined are able to generate prediction intervals to their point forecasts.
 
 tags:
 - Source Themes
@@ -34,8 +34,8 @@ featured: false
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
