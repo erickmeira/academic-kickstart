@@ -1,5 +1,5 @@
 ---
-title: "Treating and Pruning: new approaches to forecasting model selection and combination using prediction intervals"
+title: "ABEC Treating and Pruning: new approaches to forecasting model selection and combination using prediction intervals"
 authors:
 - admin
 - Fernando Luiz Cyrino Oliveira
