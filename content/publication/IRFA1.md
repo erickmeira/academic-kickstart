@@ -51,10 +51,6 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "https://doi.org/10.1016/j.irfa.2020.101505"}]
-
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
