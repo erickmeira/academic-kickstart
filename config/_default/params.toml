@@ -278,6 +278,9 @@ plugins_js  = []
   api_key = ""
   zoom = 15
 
+# Logo
+logo = "logo.png"
+
 ############################
 ## Marketing
 ############################
