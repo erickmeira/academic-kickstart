@@ -30,10 +30,7 @@ publication_short: "IRFA"
 abstract: This study investigates the effects of uncertainty measures on the dynamics of sustainability indices across different regions of the globe in the post-crisis period. The analysis is conducted under a multivariate Nonlinear Autoregressive-Distributed Lag (NARDL) framework. The results suggest that besides contributing to the Sustainable Development Goals, sustainability indices may serve as valuable tools to investors, asset managers and other stakeholders to dampen and/or offset the negative impacts of local and global measures of uncertainty, depending on the analyzed region. Other implications and an agenda for future research are also discussed.
 
 # Summary. An optional shortened abstract.
-summary: The short and long-run effects of uncertainty measures on the dynamic of sustainability indices are investigated. 
-A Nonlinear Autoregressive-distributed Lag framework is used to examine possible asymmetric effects of uncertainty measures. 
-Responses of sustainability indices to uncertainty measures are heterogeneous across regions.
-Sustainability indices serve as valuable hedging tools to investors and asset managers in particular contexts.
+summary: The short and long-run effects of uncertainty measures on the dynamic of sustainability indices are investigated. A Nonlinear Autoregressive-distributed Lag framework is used to examine possible asymmetric effects of uncertainty measures. Responses of sustainability indices to uncertainty measures are heterogeneous across regions. Sustainability indices serve as valuable hedging tools to investors and asset managers in particular contexts.
 
 tags:
 - Sustainability indices
